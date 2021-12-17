@@ -9,7 +9,7 @@
 - That's it: launch the URL `/api/documentation`
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
 
-http://notesin.net/laravel-openapi-swagger/public/login
-http://notesin.net/laravel-openapi-swagger/public/api/documentation
+###  http://notesin.net/laravel-openapi-swagger/public/login
+###  http://notesin.net/laravel-openapi-swagger/public/api/documentation
 
 
